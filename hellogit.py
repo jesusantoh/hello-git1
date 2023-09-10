@@ -1,2 +1,1 @@
-print ("hello git otra prueba")
-property FileNotFoundError
+print ("hello git otra prueba"
